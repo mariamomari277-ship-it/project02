@@ -1,0 +1,20 @@
+.nav-bar{
+    position:fixed;
+    top:0;
+    z-index: 10;
+}
+.card-container {
+    position: relative;
+    margin-top: 70px;
+
+}
+.badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.back-to-top{
+    position:fixed;
+    bottom: 20px;
+    right: 20px;
+}
